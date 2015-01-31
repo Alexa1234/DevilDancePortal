@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal.DevilDance", "Portal.DevilDance\Portal.DevilDance.csproj", "{F6864652-C26B-4518-AF58-8E9F5BA2CA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal.DevilDance.Core", "Portal.DevilDance.Core\Portal.DevilDance.Core.csproj", "{CB9879D4-AA53-4482-946F-344F011F9A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal.DevilDance.Services", "Portal.DevilDance.Services\Portal.DevilDance.Services.csproj", "{E47A6888-5A51-4AD8-BDDB-901053535267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6864652-C26B-4518-AF58-8E9F5BA2CA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6864652-C26B-4518-AF58-8E9F5BA2CA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6864652-C26B-4518-AF58-8E9F5BA2CA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6864652-C26B-4518-AF58-8E9F5BA2CA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB9879D4-AA53-4482-946F-344F011F9A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9879D4-AA53-4482-946F-344F011F9A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9879D4-AA53-4482-946F-344F011F9A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9879D4-AA53-4482-946F-344F011F9A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47A6888-5A51-4AD8-BDDB-901053535267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47A6888-5A51-4AD8-BDDB-901053535267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47A6888-5A51-4AD8-BDDB-901053535267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47A6888-5A51-4AD8-BDDB-901053535267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
